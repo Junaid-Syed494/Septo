@@ -1,0 +1,21 @@
+{
+  "name": "quickfix-customer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3",
+    "http-server": "^14.1.1",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/core": "^7.4.3"
+  }
+}
